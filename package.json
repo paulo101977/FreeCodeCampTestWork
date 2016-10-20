@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "\"FreeCodeCamp MongoDB\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulo101977/FreeCodeCampTestWork.git"
+  },
+  "author": "Paulo Sérgio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulo101977/FreeCodeCampTestWork/issues"
+  },
+  "homepage": "https://github.com/paulo101977/FreeCodeCampTestWork#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
