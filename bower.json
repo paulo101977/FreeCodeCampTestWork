@@ -1,0 +1,22 @@
+{
+  "name": "workspace",
+  "description": "\"FreeCodeCamp MongoDB\"",
+  "main": "index.js",
+  "authors": [
+    "Paulo Sérgio"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/paulo101977/FreeCodeCampTestWork",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
